@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        barColorWhenSelected="@color/white"
+        icon="@drawable/ic_wallet"
+        id="@+id/nav_wallet"
+        title="Wallet" />
+    <tab
+        barColorWhenSelected="@color/white"
+        icon="@drawable/ic_profile"
+        id="@+id/nav_profile"
+        title="Profile" />
+</tabs>
